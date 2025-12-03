@@ -1,6 +1,6 @@
 # A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment
 
-[](https://hub.baai.ac.cn/view/45238)
+https://hub.baai.ac.cn/view/45238
 
 ## abstract
 
